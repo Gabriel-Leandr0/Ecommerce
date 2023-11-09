@@ -1,0 +1,15 @@
+/home/gabriel/Desktop/My_Projects/ecommerce/src/main/java/br/com/ecommerce/repository/ProductRepository.java
+/home/gabriel/Desktop/My_Projects/ecommerce/src/main/java/br/com/ecommerce/KafkaDispatcher.java
+/home/gabriel/Desktop/My_Projects/ecommerce/src/main/java/br/com/ecommerce/EmailService.java
+/home/gabriel/Desktop/My_Projects/ecommerce/src/main/java/br/com/ecommerce/model/Costumer.java
+/home/gabriel/Desktop/My_Projects/ecommerce/src/main/java/br/com/ecommerce/KafkaService.java
+/home/gabriel/Desktop/My_Projects/ecommerce/src/main/java/br/com/ecommerce/controller/costumer/PostCostumer.java
+/home/gabriel/Desktop/My_Projects/ecommerce/src/main/java/br/com/ecommerce/controller/product/PostProduct.java
+/home/gabriel/Desktop/My_Projects/ecommerce/src/main/java/br/com/ecommerce/OrderResource.java
+/home/gabriel/Desktop/My_Projects/ecommerce/src/main/java/br/com/ecommerce/controller/costumer/GetCostumer.java
+/home/gabriel/Desktop/My_Projects/ecommerce/src/main/java/br/com/ecommerce/repository/CostumerRepository.java
+/home/gabriel/Desktop/My_Projects/ecommerce/src/main/java/br/com/ecommerce/FraudDetectorService.java
+/home/gabriel/Desktop/My_Projects/ecommerce/src/main/java/br/com/ecommerce/ConsumerFunction.java
+/home/gabriel/Desktop/My_Projects/ecommerce/src/main/java/br/com/ecommerce/model/Product.java
+/home/gabriel/Desktop/My_Projects/ecommerce/src/main/java/br/com/ecommerce/controller/product/GetProduct.java
+/home/gabriel/Desktop/My_Projects/ecommerce/src/main/java/br/com/ecommerce/LogService.java

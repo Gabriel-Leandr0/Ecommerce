@@ -1,0 +1,16 @@
+br/com/ecommerce/KafkaDispatcher.class
+br/com/ecommerce/LogService.class
+br/com/ecommerce/repository/CostumerRepository.class
+br/com/ecommerce/ConsumerFunction.class
+br/com/ecommerce/EmailService.class
+br/com/ecommerce/controller/product/GetProduct.class
+br/com/ecommerce/model/Product.class
+br/com/ecommerce/controller/costumer/GetCostumer.class
+br/com/ecommerce/repository/ProductRepository.class
+br/com/ecommerce/OrderResource.class
+META-INF/panache-archive.marker
+br/com/ecommerce/controller/costumer/PostCostumer.class
+br/com/ecommerce/controller/product/PostProduct.class
+br/com/ecommerce/FraudDetectorService.class
+br/com/ecommerce/KafkaService.class
+br/com/ecommerce/model/Costumer.class
